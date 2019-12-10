@@ -9,6 +9,7 @@ require (
 	github.com/gertd/go-pluralize v0.1.1
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334
+	github.com/spf13/cast v1.3.0 // indirect
 	github.com/vektah/gqlparser v1.2.0
 	github.com/volatiletech/inflect v0.0.0-20170731032912-e7201282ae8d // indirect
 	github.com/volatiletech/null v8.0.0+incompatible

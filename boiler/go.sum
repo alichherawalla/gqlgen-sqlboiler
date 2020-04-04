@@ -1,0 +1,4 @@
+github.com/gertd/go-pluralize v0.1.4 h1:whO9tabQ5OSpTFr8oZRrlM3owcuyc6NFJho54kBCQUE=
+github.com/gertd/go-pluralize v0.1.4/go.mod h1:3DkM/CcGP3dn/Gt02QBhRit6Jh9Pt9nSV8HHSu88NuE=
+github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334 h1:VHgatEHNcBFEB7inlalqfNqw65aNkM1lGX2yt3NmbS8=
+github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334/go.mod h1:SK73tn/9oHe+/Y0h39VT4UCxmurVJkR5NA7kMEAOgSE=

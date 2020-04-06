@@ -56,8 +56,8 @@ github.com/urfave/cli/v2 v2.1.1/go.mod h1:SE9GqnLQmjVa0iPEY0f1w3ygNIYcIJ0OKPMoW2
 github.com/vektah/dataloaden v0.2.1-0.20190515034641-a19b9a6e7c9e/go.mod h1:/HUdMve7rvxZma+2ZELQeNh88+003LL7Pf/CZ089j8U=
 github.com/vektah/gqlparser/v2 v2.0.1 h1:xgl5abVnsd4hkN9rk65OJID9bfcLSMuTaTcZj777q1o=
 github.com/vektah/gqlparser/v2 v2.0.1/go.mod h1:SyUiHgLATUR8BiYURfTirrTcGpcE+4XkV2se04Px1Ms=
-github.com/web-ridge/gqlgen-sqlboiler/boiler v0.0.0-20200404201423-e80bbe944444 h1:zDiI+SB8ziQAgG1kCjztVH3yX4E3+Ql6Ltby3DVZBko=
-github.com/web-ridge/gqlgen-sqlboiler/boiler v0.0.0-20200404201423-e80bbe944444/go.mod h1:AgDut76hnp3R2MmUtWx/iek5/BbelQvHquxYMiwffMk=
+github.com/web-ridge/gqlgen-sqlboiler/boiler v0.0.0-20200406205932-2384a4d7df0b h1:+ubr8T+Pv0K+653DXcsrXaMcS28Ymbdy65jp/jkjLVQ=
+github.com/web-ridge/gqlgen-sqlboiler/boiler v0.0.0-20200406205932-2384a4d7df0b/go.mod h1:AgDut76hnp3R2MmUtWx/iek5/BbelQvHquxYMiwffMk=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
 golang.org/x/mod v0.1.1-0.20191105210325-c90efee705ee/go.mod h1:QqPTAvyqsEbceGzBzNggFXnrqF1CaUcvgkdR5Ot7KZg=
